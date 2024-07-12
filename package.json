@@ -1,0 +1,17 @@
+{
+  "name": "fileupload-openai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "module": "ES",
+  "scripts": {
+    "dev": "node upload.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "html2canvas": "^1.4.1",
+    "openai": "^4.47.1",
+    "path": "^0.12.7"
+  }
+}
